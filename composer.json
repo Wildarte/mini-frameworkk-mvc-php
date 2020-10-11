@@ -1,0 +1,15 @@
+{
+    "name": "wil/mini-framework",
+    "authors": [
+        {
+            "name": "Wild",
+            "email": "wildarte10@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload" : {
+        "psr-4": {
+            "app\\": "app"
+        }
+    }
+}
